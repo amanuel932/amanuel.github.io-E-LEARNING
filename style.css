@@ -1,0 +1,52 @@
+.navbar {
+   position: sticky;
+}
+,main {
+    margin-bottom: 80px;
+}
+.row {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.line {
+    width: 100%;
+    height: 1px;
+    background-color: rgba(25, 71, 255,0.5);
+}
+#icon-con {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.main {
+    margin-top: 0;
+}
+#main-con {
+    margin-top: -2rem;
+}
+#page1 {
+    margin-top: 1px;
+}
+
+.carousel-container {
+    width: 800px;
+    height: 400px;
+}
+
+.brand {
+    font-size: 2.5rem;
+    color: rgb(25, 71, 255);
+}
+.intro-para {
+    margin-top: 10px;
+}
+#sec-con {
+    margin-top: 45px;
+    margin-bottom: 55px;
+}
+#thir-con {
+    margin-top: 35px;
+}
+.clearfix {
+    margin-top: 50px;
+}
